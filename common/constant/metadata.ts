@@ -1,16 +1,16 @@
 export const METADATA = {
-  creator: 'FIQTOR',
+  creator: 'HADI',
   description:
     'Personal website, portfolio, fullstack website developer',
   keyword:
-    'fiqtor, FIQTOR, taufiiqul hakim, programming tips, belajar javascript, belajar typescript',
+    'hadi, HADI, DevOps Developer, programming tips, belajar javascript, belajar typescript',
   authors: {
-    name: 'Taufiiqul Hakim',
+    name: 'DevOps Developer',
     url: process.env.DOMAIN,
   },
   openGraph: {
     url: process.env.DOMAIN,
-    siteName: 'FIQTOR',
+    siteName: 'HADI',
     locale: 'id-ID',
   },
   icons: {
@@ -22,7 +22,7 @@ export const METADATA = {
       url: '/favicon.ico',
     },
   },
-  exTitle: '| FIQTOR',
+  exTitle: '| HADI',
   profile: 'https://avatars.githubusercontent.com/u/117913964?v=4',
   githubUsername: process.env.GITHUB_USERNAME,
   githubToken: process.env.GITHUB_TOKEN,
